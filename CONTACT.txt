@@ -1,0 +1,6 @@
+Full Name: [YOUR FULL NAME]
+Email: [YOUR EMAIL]
+Phone: [YOUR PHONE NUMBER]
+GitHub: https://github.com/[YOUR_USERNAME]
+
+Most challenging part: Wiring Clerk JWT verification server-side so that every API route independently validates the caller's role from the token — making sure the role gate lives in the backend and not just the frontend.

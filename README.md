@@ -6,11 +6,11 @@ A deployed, end-to-end attendance management system for the SkillBridge state-le
 
 ## 1. Live URLs
 
-| Service    | URL |
-|------------|-----|
-| Frontend   | `https://skillbridge-attendance.vercel.app` ← replace after deploy |
-| Backend    | `https://skillbridge-api.up.railway.app` ← replace after deploy |
-| API Health | `https://skillbridge-api.up.railway.app/health` |
+| Service    | URL                                                          |
+|------------|--------------------------------------------------------------|
+| Frontend   | `https://skillbridge-sfix.vercel.app/`                       |
+| Backend    | `skillbridge-production-f4da.up.railway.app`                 |
+| API Health | `https://skillbridge-production-f4da.up.railway.app/health`  |
 
 ---
 
